@@ -17,7 +17,7 @@
 
 ## 用法
 
-需要将 ``[static.helingqi.com](https://static.helingqi.com/ "static.helingqi.com")`` 替换为  ``[cdn.jsdelivr.net/gh/Vicshs/storage](https://cdn.jsdelivr.net/gh/Vicshs/storage/ "cdn.jsdelivr.net/gh/Vicshs/storage")``
+需要将 [static.helingqi.com](https://static.helingqi.com/ "static.helingqi.com") 替换为  [cdn.jsdelivr.net/gh/Vicshs/storage](https://cdn.jsdelivr.net/gh/Vicshs/storage/ "cdn.jsdelivr.net/gh/Vicshs/storage")
 
 GitHub
 ------

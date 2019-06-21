@@ -1,20 +1,21 @@
-##静态资源库存储
-**当前目录结构**
+## 静态资源库存储
 
-|目录|注释|
-| ------------ | ------------ |
-| face  |表情包   |
-| font  |字体   |
-| images  |图片   |
-| javascript  |js脚本   |
-| layer  |插件   |
-| music  |音乐   |
-| stylesheet  |CSS样式文件   |
-| themes  |主题静态文件   |
+** 当前目录结构 **
 
-**更多文件更新中**
+|目录|注释|备注|
+| ------------ | ------------ | ------------ |
+| face  |表情包   ||
+| font  |字体   ||
+| images  |图片   ||
+| javascript  |js脚本   ||
+| layer  |插件   ||
+| music  |音乐   ||
+| stylesheet  |CSS样式文件   ||
+| themes  |主题静态文件   ||
 
-##用法
+** 更多文件更新中 **
+
+## 用法
 
 需要将 ``https://static.helingqi.com/`` 替换为  ``https://cdn.jsdelivr.net/gh/Vicshs/storage/``
 

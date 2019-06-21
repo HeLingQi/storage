@@ -3,15 +3,16 @@
 ** 当前目录结构 **
 
 |目录|注释|备注|
-| ------------ | ------------ | ------------ |
-| face  |表情包   ||
-| font  |字体   ||
-| images  |图片   ||
-| javascript  |js脚本   ||
-| layer  |插件   ||
-| music  |音乐   ||
-| stylesheet  |CSS样式文件   ||
-| themes  |主题静态文件   ||
+| ------------ | ------------ |
+| face  |表情包   |
+| font  |字体   |
+| images  |图片   |
+| javascript  |js脚本   |
+| layer  |插件   |
+| music  |音乐   |
+| video  |视频   |
+| stylesheet  |CSS样式文件   |
+| themes  |主题静态文件   |
 
 ** 更多文件更新中 **
 

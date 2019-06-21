@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'iconfont';
+  src: url('//static.helingqi.com/fonts/iconfont.eot'); 
+  src: url('//static.helingqi.com/fonts/iconfont.eot?#iefix') format('embedded-opentype'), 
+  url('//static.helingqi.com/fonts/iconfont.woff') format('woff'), 
+  url('//static.helingqi.com/fonts/iconfont.ttf') format('truetype'), 
+  url('//static.helingqi.com/fonts/iconfont.svg#iconfont') format('svg');
+}
+                          
+@font-face {
+    font-family: 'Exo';
+    font-style: normal;
+    font-weight: 100;
+    src: local('Exo Thin'), local('Exo-Thin'), url(//static.helingqi.com/fonts/Thin.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'Exo';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Exo Regular'), local('Exo-Regular'), url(//static.helingqi.com/fonts/Regular.woff) format('woff');
+}

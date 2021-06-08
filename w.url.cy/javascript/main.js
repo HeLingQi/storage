@@ -113,7 +113,7 @@ var app = new Vue({
                 return;
             }
             post(that.long.postUrl, {
-                dwz: that.long.dwz
+                source: that.long.dwz
             }, function (res) {
                 if (res.code === 1) {
                     that.long.url = res.data;

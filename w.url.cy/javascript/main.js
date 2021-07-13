@@ -94,7 +94,7 @@ var app = new Vue({
                 return;
             }
             post(that.short.postUrl, {
-                url: that.short.url,
+                url: encodeURIComponent(that.short.url),
                 token: '018C943A18A752974758EFAEF2DFC62F'
             }, function (res) {
                 if (res.code === 1) {
